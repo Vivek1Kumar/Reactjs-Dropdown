@@ -1,0 +1,27 @@
+[
+	{ 
+	   "language":"Java" ,
+	   "edition":"second",
+	   "author": "Hari" 
+	},
+	{ 
+		"language":"C++" , 
+		"edition":"fifth" ,
+		"author": "John" 
+	},
+	{ 
+		"language":"C" ,
+		 "edition":"third" ,
+		 "author": "jsd" 
+	},
+	{
+		"language": "JavaScript",
+		"edition": "ES6",
+		"author": "Krish" 
+	},
+	{
+		"language": "PHP",
+		"edition": "1.4",
+		"author": "reno" 
+	}
+]
