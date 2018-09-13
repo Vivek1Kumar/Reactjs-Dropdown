@@ -53,4 +53,4 @@ class FlavorForm extends React.Component {
   }
 }
 
-export default FlavorForm;
+export default FlavorForm; 
